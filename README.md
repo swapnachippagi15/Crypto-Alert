@@ -230,17 +230,9 @@ Deta.sh provides the `Visor` functionality which is a logger kind for the produc
  ┗ 📜package.json
  
  
- 
+### 12. Deta Base reset
+If you would like to reset the key in the DB you can do so by selecting `Base` section in your detabase dashboard. You would see something like the following image
 
 
-
-
-
-
-
-
-
-
-
-
-
+![DB.png](https://cdn.steemitimages.com/DQmeRhvKiVvBRYpUBzHFzz4DBU9TKBoWoV7C2xcwpSbvkK5/DB.png)
+You can uncheck/check the values of that key as they are the Booleans.The very next execution will read the updated values 
